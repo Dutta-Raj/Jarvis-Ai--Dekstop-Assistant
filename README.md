@@ -1,27 +1,38 @@
-##Jarvis AI - Desktop Assistant
+Jarvis AI - Desktop Assistant
+https://assets/icon.png
 
-Turning  desktop into an intelligent personal assistant.
+A Python-based intelligent personal assistant that transforms your desktop into a voice-controlled command center, inspired by Tony Stark's iconic AI companion.
 
-Jarvis AI is a Python-based desktop assistant that can automate tasks, open applications, search the web, and interact with your system using voice commands. Inspired by the Jarvis AI from Iron Man, this project brings advanced desktop automation to your fingertips.
+🚀 System Ready
+Jarvis AI is an advanced desktop automation system that responds to natural language voice commands, automates routine tasks, manages applications, and fetches information—all through an intuitive graphical interface.
 
-Features
+✨ Features
+🎤 Voice-Controlled Interaction
+Natural language processing for voice commands
 
-Voice-controlled commands: Interact with your computer using natural language.
+Wake word detection for hands-free activation
 
-Application automation: Open apps like Chrome, VS Code, Telegram, YouTube, etc.
+Real-time speech recognition and synthesis
 
-Web and media control: Search online, play music/videos, and fetch information.
+🖥️ Application Automation
+One-voice-command application launching
 
-Task automation: Send emails, manage files, and perform system operations like shutdown/restart.
+Supports popular apps: Chrome, VS Code, Telegram, YouTube, and more
 
-Multi-file architecture:
+Custom application profile configuration
 
-assistant.py – Core AI engine for voice recognition and task handling.
+🌐 Web & Media Control
+Web search and information retrieval
 
-ui.py / pro_ui.py – Graphical User Interface for desktop interactions.
+Music and video playback control
 
-automation.py – Contains scripts for task automation.
+Real-time weather, news, and data fetching
 
-wake.py – Module for listening and activating the assistant.
+⚡ Task Automation
+Email composition and sending
 
-Assets: Custom icons and background images for UI (assets/ folder).
+File system management and organization
+
+System operations (shutdown, restart, sleep)
+
+Custom automation script integration
